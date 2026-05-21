@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 497.7 511.7" style="enable-background:new 0 0 497.7 511.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CCCCCC;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:17.57;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#CCCCCC;stroke-width:16.57;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{fill:#CCCCCC;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{fill:#8F8F8F;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<title>methan</title>
+<path class="st0" d="M497.2,231.3c0-36.3-29.5-65.8-65.8-65.8s-65.8,29.5-65.8,65.8s29.5,65.8,65.8,65.8  C467.7,297.1,497.1,267.6,497.2,231.3"/>
+<line class="st1" x1="369.7" y1="242.4" x2="369.7" y2="242.4"/>
+<line class="st2" x1="369.7" y1="242.4" x2="369.7" y2="242.4"/>
+<path class="st3" d="M132.1,287.6c0-36.3-29.5-65.8-65.8-65.8S0.5,251.2,0.5,287.6s29.5,65.8,65.8,65.8  C102.6,353.4,132.1,323.9,132.1,287.6"/>
+<line class="st1" x1="131.4" y1="278.6" x2="195.2" y2="269.9"/>
+<line class="st2" x1="131.4" y1="278.6" x2="195.2" y2="269.9"/>
+<path class="st4" d="M375.3,257.6c0-49.9-40.5-90.4-90.4-90.4s-90.4,40.5-90.4,90.4c0,49.9,40.5,90.4,90.4,90.5c0,0,0,0,0,0  C334.8,348,375.2,307.5,375.3,257.6"/>
+<line class="st1" x1="313.9" y1="343.3" x2="327.5" y2="383"/>
+<line class="st2" x1="313.9" y1="343.3" x2="327.5" y2="383"/>
+<line class="st1" x1="288.7" y1="167.3" x2="290.2" y2="132"/>
+<line class="st2" x1="288.7" y1="167.3" x2="290.2" y2="132"/>
+<path class="st3" d="M414.4,445.4c0-36.3-29.5-65.8-65.8-65.8s-65.8,29.5-65.8,65.8s29.5,65.8,65.8,65.8  C384.9,511.2,414.3,481.7,414.4,445.4"/>
+<path class="st3" d="M358.9,66.3c0-36.3-29.5-65.8-65.8-65.8S227.3,30,227.3,66.3s29.5,65.8,65.8,65.8  C329.4,132.1,358.9,102.6,358.9,66.3"/>
+</svg>

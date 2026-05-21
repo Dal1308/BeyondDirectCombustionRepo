@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title id="title">Methane molecule, CH4</title>
+  <desc id="desc">A clean ball-and-stick SVG illustration of methane with a central carbon atom bonded tetrahedrally to four hydrogen atoms.</desc>
+  <defs>
+    <radialGradient id="carbonGrad" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#6f7782"/>
+      <stop offset="55%" stop-color="#2f3540"/>
+      <stop offset="100%" stop-color="#171b21"/>
+    </radialGradient>
+    <radialGradient id="hydrogenGrad" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="65%" stop-color="#edf1f5"/>
+      <stop offset="100%" stop-color="#c7ced8"/>
+    </radialGradient>
+    <linearGradient id="bondGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d8dde4"/>
+      <stop offset="50%" stop-color="#9da7b3"/>
+      <stop offset="100%" stop-color="#6f7a86"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#000000" flood-opacity="0.18"/>
+    </filter>
+    <style>
+      .bond { stroke: url(#bondGrad); stroke-width: 28; stroke-linecap: round; }
+      .back-bond { stroke-opacity: 0.52; }
+      .front-bond { stroke-width: 32; }
+      .atom-label { font-family: Arial, Helvetica, sans-serif; font-weight: 700; fill: #1f2933; text-anchor: middle; dominant-baseline: middle; }
+      .small-label { font-size: 34px; }
+      .large-label { font-size: 46px; fill: #ffffff; }
+      .caption { font-family: Arial, Helvetica, sans-serif; font-size: 30px; fill: #1f2933; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <rect width="900" height="700" fill="#ffffff"/>
+
+  <!-- Back bonds: lighter to suggest depth -->
+  <line class="bond back-bond" x1="450" y1="350" x2="310" y2="500"/>
+  <line class="bond back-bond" x1="450" y1="350" x2="590" y2="500"/>
+
+  <!-- Back hydrogens -->
+  <g filter="url(#softShadow)">
+    <circle cx="300" cy="512" r="58" fill="url(#hydrogenGrad)" stroke="#aeb7c2" stroke-width="3"/>
+    <circle cx="600" cy="512" r="58" fill="url(#hydrogenGrad)" stroke="#aeb7c2" stroke-width="3"/>
+  </g>
+  <text class="atom-label small-label" x="300" y="512">H</text>
+  <text class="atom-label small-label" x="600" y="512">H</text>
+
+  <!-- Front bonds -->
+  <line class="bond front-bond" x1="450" y1="350" x2="450" y2="155"/>
+  <line class="bond front-bond" x1="450" y1="350" x2="230" y2="280"/>
+  <line class="bond front-bond" x1="450" y1="350" x2="670" y2="280"/>
+
+  <!-- Front hydrogens -->
+  <g filter="url(#softShadow)">
+    <circle cx="450" cy="135" r="62" fill="url(#hydrogenGrad)" stroke="#aeb7c2" stroke-width="3"/>
+    <circle cx="205" cy="272" r="62" fill="url(#hydrogenGrad)" stroke="#aeb7c2" stroke-width="3"/>
+    <circle cx="695" cy="272" r="62" fill="url(#hydrogenGrad)" stroke="#aeb7c2" stroke-width="3"/>
+  </g>
+  <text class="atom-label small-label" x="450" y="135">H</text>
+  <text class="atom-label small-label" x="205" y="272">H</text>
+  <text class="atom-label small-label" x="695" y="272">H</text>
+
+  <!-- Central carbon atom -->
+  <g filter="url(#softShadow)">
+    <circle cx="450" cy="350" r="82" fill="url(#carbonGrad)" stroke="#111827" stroke-width="3"/>
+  </g>
+  <text class="atom-label large-label" x="450" y="350">C</text>
+
+  <!-- Optional molecular formula label -->
+  <text class="caption" x="450" y="635">Methane, CH<tspan baseline-shift="sub" font-size="20">4</tspan></text>
+</svg>
