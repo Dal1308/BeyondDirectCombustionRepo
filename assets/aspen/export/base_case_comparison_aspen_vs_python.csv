@@ -1,0 +1,11 @@
+metric,aspen_value,python_value,units,status,notes
+fuel_input_basis,890.7,890.7,kJ_per_mol_fuel,Comparable,"Common methane LHV basis"
+condenser_delivery,1773.2406,128.6897,kJ_per_mol_fuel,Comparable,"Aspen condenser duty converted from W at 0.05 mol/s; Python condenser heat from re-ranged baseline integrated summary"
+conventional_efficiency,1.9910,0.1445,W_per_W,Comparable,"Condenser-only conventional efficiency"
+conventional_efficiency_pct,199.1039,14.4482,percent,Comparable,"Condenser-only efficiency on methane LHV basis"
+ambient_or_stage1_heat_uptake,923.0703,4.7261,kJ_per_mol_fuel,Partially comparable,"Aspen EVAP1 versus Python stage-1 heat uptake under re-ranged baseline"
+hotter_stage_heat_uptake,317.7800,70.9977,kJ_per_mol_fuel,Partially comparable,"Aspen EVAP2 provisional versus Python stage-2 heat uptake under re-ranged baseline"
+combustion_side_recovery_duty,1046.5410,,kJ_per_mol_fuel,Provisional,"Aspen TURBHEAT is present but boundary-clean status remains unresolved"
+heat_pump_allocated_external_work,,52.9659,kJ_per_mol_fuel,Python only,"Explicit external Brayton work allocated to heat-pump side in reduced-order model"
+recovered_expansion_work,,28.8747,kJ_per_mol_fuel,Python only,"Explicit heat-pump-side expander recovery in reduced-order model"
+distance_to_reversible_limit,,0.0235,fraction,Python only,"Current reduced-order model remains far below the reversible benchmark"

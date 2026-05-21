@@ -1,0 +1,13 @@
+quantity,value,units,status,notes
+aspen_headline_delivered_heat_w,88662.03,W,Firm,"Current headline boundary uses condenser duty only"
+aspen_fuel_input_lhv_w,44535.0,W,Firm,"Methane LHV basis from current_base_case_key_outputs.csv"
+aspen_headline_efficiency,1.991038509,W/W,Firm,"Condenser-only conventional efficiency"
+practical_comparator_efficiency,0.9,W/W,Firm,"Locked manuscript practical comparator"
+direct_combustion_ceiling_efficiency,1.0,W/W,Firm,"Locked manuscript direct-combustion ceiling"
+equal_duty_fuel_required_90_w,98513.366667,W,Derived,"88662.03 / 0.90"
+equal_duty_fuel_required_100_w,88662.03,W,Derived,"88662.03 / 1.00"
+aspen_to_practical_fuel_ratio,0.452069011,ratio,Derived,"44535 / 98513.366667"
+aspen_equal_duty_gas_savings_vs_90_pct,54.7930989,percent,Derived,"1 - 44535 / 98513.366667"
+aspen_to_direct_combustion_fuel_ratio,0.502250362,ratio,Derived,"44535 / 88662.03"
+position_vs_100,above,text,Firm,"Aspen headline exceeds the 100% direct-combustion ceiling"
+headline_boundary,condenser_only,text,Locked,"Boundary locked by aspen-delivered-heat-boundary-decision.md"

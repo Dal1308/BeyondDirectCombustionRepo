@@ -1,0 +1,20 @@
+# Data Manifest — Maps data files to their source and consumers
+# Format: data_file,source_path,description
+
+# Independent model outputs
+benchmark_surface.csv,models/independent/output/benchmark_surface.csv,Q_H,max / |ΔH°| across T_cold × T_hot for methane
+temperature_sweep.csv,models/independent/output/temperature_sweep.csv,Multiplier vs temperature lift at fixed T_cold
+fuel_comparison.csv,models/independent/output/fuel_comparison.csv,Theorem-derived Q_H,max / |ΔH°| comparison across fuels at representative temperatures
+
+# Thermodynamic outputs
+baseline_breakdown.csv,models/thermodynamic/output/baseline_breakdown.csv,Energy flow breakdown for the Brayton heat-pump architecture-space model baseline case
+brayton_heat_pump_architecture_space_case_summary.csv,models/thermodynamic/output/brayton_heat_pump_architecture_space_case_summary.csv,Summary statistics for the Brayton heat-pump architecture-space model baseline
+
+# Brayton heat-pump architecture-space model outputs
+multivariate_design_space.csv,models/thermodynamic/brayton_heat_pump_architecture_space/output/multivariate_design_space.csv,Design space sweep: fuel_flow × t_source_c with non-valid performance nulled
+regime_validity_sweep.csv,models/thermodynamic/brayton_heat_pump_architecture_space/output/regime_validity_sweep.csv,R134a regime validity across η_engine × UA grid with non-valid performance nulled
+sensitivity_data.csv,models/thermodynamic/brayton_heat_pump_architecture_space/output/sensitivity_data.csv,Sensitivity analysis results with bound-level validity states
+efficiency_distribution.csv,models/thermodynamic/brayton_heat_pump_architecture_space/output/efficiency_distribution_high_res_full_run.csv,Valid-only high-resolution efficiency distribution by fuel flow regime
+efficiency_distribution_summary.csv,models/thermodynamic/brayton_heat_pump_architecture_space/output/efficiency_distribution_high_res_full_run_summary.csv,Validity denominator accounting for efficiency_distribution.csv
+layer2_layer4_comparison.csv,models/thermodynamic/brayton_heat_pump_architecture_space/output/layer2_layer4_comparison.csv,Safe Layer 2 reversible benchmark vs Layer 4 architecture-space comparison
+stress_test_results.csv,models/thermodynamic/brayton_heat_pump_architecture_space/output/stress_test_results.csv,Stress test results

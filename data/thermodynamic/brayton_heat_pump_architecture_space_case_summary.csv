@@ -1,0 +1,2 @@
+mode,fuel_flow_kg_s,t_source_c,t_sink_reference_c,eta_iso,ua_condenser_w_per_k,recovery_effectiveness,eta_effective,t_sink_c,cop_hp,hp_condenser_heat_gross_w,sink_heat_transfer_w,hp_useful_heat_w,total_useful_heat_out_w
+predictive,0.001,10.0,10.0,0.75,1530,0.55,1.681593078101654,56.997949489771074,4.3219769270055135,71986.84769620383,71986.84769620383,71986.84769620383,93362.04769620382

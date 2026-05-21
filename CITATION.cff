@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Public reproducibility package for Beyond direct combustion: a reversible benchmark for heat delivery from chemical fuels"
+message: "If you use this code or data, please cite the associated paper and archived software release."
+type: software
+authors:
+  - family-names: Boorany
+    given-names: Nidal
+  - family-names: Stacey
+    given-names: Neil Thomas
+  - family-names: Hildebrandt
+    given-names: Diane
+  - family-names: Glasser
+    given-names: David
+repository-code: "https://github.com/REPLACE-WITH-REPOSITORY/chemical-fuel-heating-benchmark"
+doi: "10.5281/zenodo.REPLACE"
+version: "0.1.0"
+date-released: "2026-05-21"
+license: GPL-3.0-only

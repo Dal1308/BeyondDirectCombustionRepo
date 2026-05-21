@@ -1,0 +1,24 @@
+# Thermodynamic Model v2 Configuration
+# Physical constants for the Brayton Heat-Pump Architecture-Space Model
+
+refrigerant: "R134a"
+
+fuel:
+  lhv: 55520000        # Lower Heating Value [J/kg] (Pure Methane basis: 890.7 kJ/mol)
+  eta_engine: 0.30     # Brayton cycle efficiency (recuperated micro-gas-turbine baseline)
+
+heat_pump:
+  eta_iso: 0.75                 # Conservative bounded compressor-efficiency closure for the Brayton heat-pump architecture-space model
+  ua_condenser: 1530            # Internal condenser-loss closure [W/K] chosen to keep nominal T_sink in-envelope
+  recovery_effectiveness: 0.55  # Recovered heat fraction (Registry baseline for microturbine CHP)
+
+sink:
+  t_reference_c: 10.0           # Useful sink-side transfer reference [C] for the predictive delivery closure
+
+limits:
+  t_critical_r134a: 101.0      # Critical temperature [C] for R134a safety check
+  max_iterations: 100          # Max iterations for T_sink solver
+  convergence_tol: 0.1         # Temperature convergence tolerance [K]
+
+environment:
+  t_ambient: 10.0              # Ambient-loss reference [C] aligned to the current source-side baseline

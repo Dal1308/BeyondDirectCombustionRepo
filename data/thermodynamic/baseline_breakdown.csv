@@ -1,0 +1,10 @@
+term,value_w,note
+input_methane_lhv,55520.000000,Fuel energy input on methane LHV basis
+brayton_work_output,16656.000000,Useful work available from the prime mover
+brayton_exhaust_loss,38864.000000,Post-electric exhaust energy pool before bounded recovery
+hp_condenser_heat_gross,71986.847696,Gross refrigerant-side condenser duty
+sink_heat_transfer,71986.847696,Useful sink-side heat-transfer closure in predictive mode
+hp_useful_heat,71986.847696,Useful condenser delivery in predictive mode
+hp_compressor_irreversibility,4164.000000,Internal compression loss term from the isentropic-efficiency closure
+waste_heat_recovered,21375.200000,Bounded recovery contribution from the post-electric fuel-energy pool
+total_useful_heat_out,93362.047696,Total useful heat delivered by the current Brayton heat-pump architecture-space model boundary

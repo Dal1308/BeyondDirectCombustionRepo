@@ -1,0 +1,9 @@
+quantity,value,units,status,notes
+aspen_efficiency_pct,199.1038509,percent,Firm,"Condenser-only Aspen headline efficiency"
+practical_comparator_pct,90,percent,Firm,"Locked practical comparator"
+direct_combustion_ceiling_pct,100,percent,Firm,"Locked direct-combustion ceiling"
+equal_duty_gas_savings_vs_90_pct,54.7930989,percent,Derived,"From aspen_comparator_calculations.csv"
+position_vs_100,above,text,Firm,"Headline Aspen result exceeds 100%"
+position_vs_reversible_benchmark,below,text,Interpretive,"Case remains below the reversible benchmark"
+headline_boundary,condenser_only,text,Locked,"Figure must state the current boundary explicitly"
+combustion_side_recovery_status,separate_provisional,text,Locked,"TURBHEAT is present but not in the headline boundary"

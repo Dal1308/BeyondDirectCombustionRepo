@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chemical-fuel-heating-benchmark"
+version = "0.1.0"
+description = "Public reproducibility package for a thermodynamic benchmark of heat delivery from chemical fuels"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "GPL-3.0-only" }
+authors = [
+  { name = "Nidal Boorany" },
+  { name = "Neil Thomas Stacey" },
+  { name = "Diane Hildebrandt" },
+  { name = "David Glasser" }
+]
+dependencies = [
+  "cairosvg",
+  "numpy",
+  "pandas",
+  "pillow",
+  "pypdf",
+  "pyyaml",
+  "coolprop",
+  "pytest",
+  "matplotlib",
+  "scipy"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["models*"]

@@ -1,0 +1,12 @@
+quantity,value,units,source_basis,status,notes
+methane_feed_mol_per_min,3.0,mol/min,ResultsMethaneHeatPumpPureBrayton_A2.pdf,Firm,"FUEL stream methane flow"
+methane_feed_kg_per_min,0.04813,kg/min,ResultsMethaneHeatPumpPureBrayton_A2.pdf,Firm,"FUEL stream methane mass flow"
+fuel_input_lhv_w,44535.0,W,Derived from methane feed using 890.7 kJ/mol LHV,Firm,"0.05 mol/s * 890.7 kJ/mol"
+condenser_heat_duty_w,88662.03,W,ModelsMethaneHeatPumpPureBrayton.pdf,Firm,"CONDENSE heat duty"
+evaporator_source_heat_uptake_w,46153.516,W,ModelsMethaneHeatPumpPureBrayton.pdf,Firm,"EVAP1 heat duty; interpreted as source-side uptake"
+combustion_side_recovery_duty_w,52327.052,W,ModelsMethaneHeatPumpPureBrayton.pdf,Provisional,"TURBHEAT heat duty; present in flowsheet but not yet boundary-clean as final delivered heat"
+auxiliary_heat_exchanger_duty_w,15889.0,W,ModelsMethaneHeatPumpPureBrayton.pdf,Provisional,"EVAP2 heat duty; not yet assigned a manuscript-facing role"
+base_case_efficiency_condenser_only,1.991038509,W/W,Derived,Firm,"88662.03 / 44535.0"
+base_case_efficiency_condenser_only_pct,199.1038509,percent,Derived,Firm,"Condenser-only conventional efficiency on LHV basis"
+exceeds_direct_combustion_ceiling,yes,boolean,Derived,Firm,"Condenser-only efficiency exceeds 100%"
+full_delivered_heat_boundary_locked,no,boolean,Assessment,Open,"Current exports do not yet prove whether combustion-side recovery should be counted in the main Aspen headline number"

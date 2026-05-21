@@ -1,0 +1,41 @@
+status,is_valid,status_msg,eta_engine,ua_condenser,t_sink_c,q_total_out_w
+out_of_envelope,False,Sink temperature pushed way beyond critical point (127.3C),0.2,800,,
+valid,True,Evaluated within envelope,0.2,1000,60.12708174937718,74505.93919081119
+valid,True,Evaluated within envelope,0.2,1200,56.22411839560406,79828.47302927813
+valid,True,Evaluated within envelope,0.2,1530,51.444684067579004,87758.97631909983
+valid,True,Evaluated within envelope,0.2,1800,48.510114976329746,93673.01381501406
+valid,True,Evaluated within envelope,0.2,2000,46.71675885623942,97797.70800757608
+valid,True,Evaluated within envelope,0.2,2500,43.19077574884247,107371.17272069368
+valid,True,Evaluated within envelope,0.2,3000,40.56177414150636,116167.84830990605
+out_of_envelope,False,Sink temperature pushed way beyond critical point (156.6C),0.25,800,,
+out_of_envelope,False,Sink temperature pushed way beyond critical point (127.3C),0.25,1000,,
+valid,True,Evaluated within envelope,0.25,1200,61.03871563440697,84091.1175949857
+valid,True,Evaluated within envelope,0.25,1530,55.816636630554136,92912.71857219217
+valid,True,Evaluated within envelope,0.25,1800,52.592809002779546,99469.43681583295
+valid,True,Evaluated within envelope,0.25,2000,50.61621098344496,104034.97012512147
+valid,True,Evaluated within envelope,0.25,2500,46.71675885623942,114613.1350094701
+valid,True,Evaluated within envelope,0.25,3000,43.80893110535772,124277.81169169239
+out_of_envelope,False,Sink temperature pushed way beyond critical point (186.0C),0.3,800,,
+out_of_envelope,False,Sink temperature pushed way beyond critical point (150.8C),0.3,1000,,
+out_of_envelope,False,Sink temperature pushed way beyond critical point (127.3C),0.3,1200,,
+valid,True,Evaluated within envelope,0.3,1530,59.689869773446816,97322.57135412702
+valid,True,Evaluated within envelope,0.3,1800,56.22411839560405,104474.70954391694
+valid,True,Evaluated within envelope,0.3,2000,54.09280349431327,109445.52168641114
+valid,True,Evaluated within envelope,0.3,2500,49.8739991013928,120942.80566459142
+valid,True,Evaluated within envelope,0.3,3000,46.71675885623942,131428.56201136412
+out_of_envelope,False,Sink temperature pushed way beyond critical point (215.3C),0.35,800,,
+out_of_envelope,False,Sink temperature pushed way beyond critical point (174.2C),0.35,1000,,
+out_of_envelope,False,Sink temperature pushed way beyond critical point (146.9C),0.35,1200,,
+out_of_envelope,False,Sink temperature pushed way beyond critical point (117.3C),0.35,1530,,
+valid,True,Evaluated within envelope,0.35,1800,59.50609219003978,108866.59698077964
+valid,True,Evaluated within envelope,0.35,2000,57.24176712877336,114218.9603795282
+valid,True,Evaluated within envelope,0.35,2500,52.74589860128407,126573.9948002864
+valid,True,Evaluated within envelope,0.35,3000,49.369419745475284,137821.96332922543
+out_of_envelope,False,Sink temperature pushed way beyond critical point (244.6C),0.4,800,,
+out_of_envelope,False,Sink temperature pushed way beyond critical point (197.7C),0.4,1000,,
+out_of_envelope,False,Sink temperature pushed way beyond critical point (166.4C),0.4,1200,,
+out_of_envelope,False,Sink temperature pushed way beyond critical point (132.7C),0.4,1530,,
+out_of_envelope,False,Sink temperature pushed way beyond critical point (114.3C),0.4,1800,,
+valid,True,Evaluated within envelope,0.4,2000,60.12708174937718,118475.87838162239
+valid,True,Evaluated within envelope,0.4,2500,55.38761821917271,131645.29768490355
+valid,True,Evaluated within envelope,0.4,3000,51.81648534247528,143610.65704909884

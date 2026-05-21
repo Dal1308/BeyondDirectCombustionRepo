@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="518.740pt" height="257.953pt" viewBox="0 0 518.740 257.953">
+<rect width="100%" height="100%" fill="#ffffff" />
+<text class="composite-heading" x="259.370" y="10.772" text-anchor="middle" font-family="Arial, Helvetica, DejaVu Sans, sans-serif" font-size="8.5" font-weight="700" fill="#212121">Worked-case evidence from Aspen simulation</text>
+<text class="panel-label" x="14.173" y="27.843" font-family="Arial, Helvetica, DejaVu Sans, sans-serif" font-size="8.0" font-weight="700" fill="#212121">a</text>
+<g transform="translate(14.173 88.526) scale(0.242838)">
+
+ 
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="fig05a_figure_1">
+  <g id="fig05a_patch_1">
+   <path d="M -0 344.815781 
+L 980.530312 344.815781 
+L 980.530312 0 
+L -0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="fig05a_axes_1">
+   <g id="fig05a_patch_2">
+    <path d="M 326.105156 86.477883 
+L 684.665156 86.477883 
+L 684.665156 25.2 
+L 326.105156 25.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="fig05a_matplotlib.axis_1">
+    <g id="fig05a_xtick_1"/>
+    <g id="fig05a_xtick_2"/>
+    <g id="fig05a_xtick_3"/>
+   </g>
+   <g id="fig05a_matplotlib.axis_2">
+    <g id="fig05a_ytick_1">
+     <g id="fig05a_line2d_1">
+      <path d="M 326.105156 61.402079 
+L 684.665156 61.402079 
+" clip-path="url(#fig05a_p41266a9a0e)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #cccccc; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="fig05a_line2d_2">
+      <defs>
+       <path id="fig05a_med66e17594" d="M 0 0 
+L 3.5 0 
+" style="stroke: #555555; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#fig05a_med66e17594" x="326.105156" y="61.402079" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05a_text_1">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #555555" x="322.605156" y="64.631415" transform="rotate(-0 322.605156 64.631415)">400000</text>
+     </g>
+    </g>
+   </g>
+   <g id="fig05a_line2d_3">
+    <path d="M 323.683104 89.259935 
+L 332.847208 80.095831 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="fig05a_line2d_4">
+    <path d="M 326.105156 55.838941 
+L 684.665156 55.838941 
+" clip-path="url(#fig05a_p41266a9a0e)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #212121; stroke-opacity: 0.7; stroke-width: 1.5"/>
+   </g>
+   <g id="fig05a_patch_3">
+    <path d="M 326.105156 86.477883 
+L 326.105156 25.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="fig05a_text_2">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #212121" x="339.191288" y="62.015077" transform="rotate(-0 339.191288 62.015077)">Reversible benchmark: 389,395 W</text>
+   </g>
+  </g>
+  <g id="fig05a_axes_2">
+   <g id="fig05a_patch_4">
+    <path d="M 326.105156 302.4 
+L 684.665156 302.4 
+L 684.665156 94.551669 
+L 326.105156 94.551669 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="fig05a_patch_5">
+    <path d="M 342.403338 302.4 
+L 412.70922 302.4 
+L 412.70922 220.693803 
+L 342.403338 220.693803 
+z
+" clip-path="url(#fig05a_p29561174ff)" style="fill: #e69f00; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="fig05a_patch_6">
+    <path d="M 470.232215 302.4 
+L 540.538097 302.4 
+L 540.538097 211.615337 
+L 470.232215 211.615337 
+z
+" clip-path="url(#fig05a_p29561174ff)" style="fill: #cc79a7; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="fig05a_patch_7">
+    <path d="M 598.061092 302.4 
+L 668.366974 302.4 
+L 668.366974 121.662321 
+L 598.061092 121.662321 
+z
+" clip-path="url(#fig05a_p29561174ff)" style="fill: #009e73; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="fig05a_matplotlib.axis_3">
+    <g id="fig05a_xtick_4">
+     <g id="fig05a_line2d_5">
+      <defs>
+       <path id="fig05a_m985139f279" d="M 0 0 
+L 0 -3.5 
+" style="stroke: #555555; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#fig05a_m985139f279" x="377.556279" y="302.4" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05a_text_3">
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #212121" x="377.556279" y="318.0575" transform="rotate(-0 377.556279 318.0575)">90% comparator</text>
+     </g>
+    </g>
+    <g id="fig05a_xtick_5">
+     <g id="fig05a_line2d_6">
+      <g>
+       <use xlink:href="#fig05a_m985139f279" x="505.385156" y="302.4" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05a_text_4">
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #212121" x="505.385156" y="318.0575" transform="rotate(-0 505.385156 318.0575)">100% ceiling</text>
+     </g>
+    </g>
+    <g id="fig05a_xtick_6">
+     <g id="fig05a_line2d_7">
+      <g>
+       <use xlink:href="#fig05a_m985139f279" x="633.214033" y="302.4" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05a_text_5">
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #212121" x="633.214033" y="318.0575" transform="rotate(-0 633.214033 318.0575)">Worked case</text>
+     </g>
+    </g>
+   </g>
+   <g id="fig05a_matplotlib.axis_4">
+    <g id="fig05a_ytick_2">
+     <g id="fig05a_line2d_8">
+      <path d="M 326.105156 302.4 
+L 684.665156 302.4 
+" clip-path="url(#fig05a_p29561174ff)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #cccccc; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="fig05a_line2d_9">
+      <g>
+       <use xlink:href="#fig05a_med66e17594" x="326.105156" y="302.4" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05a_text_6">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #555555" x="322.605156" y="305.629336" transform="rotate(-0 322.605156 305.629336)">0</text>
+     </g>
+    </g>
+    <g id="fig05a_ytick_3">
+     <g id="fig05a_line2d_10">
+      <path d="M 326.105156 98.549853 
+L 684.665156 98.549853 
+" clip-path="url(#fig05a_p29561174ff)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #cccccc; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="fig05a_line2d_11">
+      <g>
+       <use xlink:href="#fig05a_med66e17594" x="326.105156" y="98.549853" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05a_text_7">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #555555" x="322.605156" y="101.779188" transform="rotate(-0 322.605156 101.779188)">100000</text>
+     </g>
+    </g>
+   </g>
+   <g id="fig05a_line2d_12">
+    <path d="M 323.683104 97.333721 
+L 332.847208 88.169617 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="fig05a_patch_8">
+    <path d="M 326.105156 302.4 
+L 326.105156 94.551669 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="fig05a_patch_9">
+    <path d="M 326.105156 302.4 
+L 684.665156 302.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="fig05a_text_8">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(339.059912 197.284462)">40,082 W</text>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(324.675459 213.52129)">(90% of fuel)</text>
+   </g>
+   <g id="fig05a_text_9">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(466.888789 188.205995)">44,535 W</text>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(447.459922 204.442823)">(100% of fuel)</text>
+   </g>
+   <g id="fig05a_text_10">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(594.717666 98.252979)">88,662 W</text>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(575.288799 114.489808)">(199% of fuel)</text>
+   </g>
+  </g>
+  <g id="fig05a_axes_3">
+   <g id="fig05a_patch_10">
+    <path d="M 326.105156 302.4 
+L 684.665156 302.4 
+L 684.665156 25.2 
+L 326.105156 25.2 
+L 326.105156 302.4 
+z
+" style="fill: none"/>
+   </g>
+   <g id="fig05a_matplotlib.axis_5"/>
+   <g id="fig05a_matplotlib.axis_6"/>
+  </g>
+  <g id="fig05a_text_11">
+   <text style="font-size: 17px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(291.5025 337.615781) rotate(-90)">Heat delivered for fixed fuel input (W)</text>
+  </g>
+  <g id="fig05a_text_12">
+</g>
+ </g>
+ <defs>
+  <clipPath id="fig05a_p41266a9a0e">
+   <rect x="326.105156" y="25.2" width="358.56" height="61.277883"/>
+  </clipPath>
+  <clipPath id="fig05a_p29561174ff">
+   <rect x="326.105156" y="94.551669" width="358.56" height="207.848331"/>
+  </clipPath>
+ </defs>
+
+</g>
+<text class="panel-label" x="263.622" y="27.843" font-family="Arial, Helvetica, DejaVu Sans, sans-serif" font-size="8.0" font-weight="700" fill="#212121">b</text>
+<g transform="translate(263.622 66.421) scale(0.290957)">
+
+ 
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="fig05b_figure_1">
+  <g id="fig05b_patch_1">
+   <path d="M 0 439.7415 
+L 837.855 439.7415 
+L 837.855 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="fig05b_axes_1">
+   <g id="fig05b_patch_2">
+    <path d="M 186.3675 154.634324 
+L 694.3275 154.634324 
+L 694.3275 72.72 
+L 186.3675 72.72 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="fig05b_matplotlib.axis_1">
+    <g id="fig05b_xtick_1"/>
+    <g id="fig05b_xtick_2"/>
+    <g id="fig05b_xtick_3"/>
+    <g id="fig05b_xtick_4"/>
+   </g>
+   <g id="fig05b_matplotlib.axis_2">
+    <g id="fig05b_ytick_1">
+     <g id="fig05b_line2d_1">
+      <path d="M 186.3675 130.792545 
+L 694.3275 130.792545 
+" clip-path="url(#fig05b_p8aafa4f9f2)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #cccccc; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="fig05b_line2d_2">
+      <defs>
+       <path id="fig05b_m056b1661cc" d="M 0 0 
+L 3.5 0 
+" style="stroke: #555555; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#fig05b_m056b1661cc" x="186.3675" y="130.792545" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05b_text_1">
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #555555" x="182.8675" y="136.871295" transform="rotate(-0 182.8675 136.871295)">400000</text>
+     </g>
+    </g>
+   </g>
+   <g id="fig05b_line2d_3">
+    <path d="M 182.93626 158.418505 
+L 195.91874 145.436025 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="fig05b_line2d_4">
+    <path d="M 186.3675 121.868594 
+L 694.3275 121.868594 
+" clip-path="url(#fig05b_p8aafa4f9f2)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #212121; stroke-opacity: 0.6; stroke-width: 1.5"/>
+   </g>
+   <g id="fig05b_patch_3">
+    <path d="M 186.3675 154.634324 
+L 186.3675 72.72 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="fig05b_text_2">
+    <g id="fig05b_patch_4">
+     <path d="M 198.837876 126.218594 
+L 479.177251 126.218594 
+Q 483.527251 126.218594 483.527251 121.868594 
+L 483.527251 107.835313 
+Q 483.527251 103.485313 479.177251 103.485313 
+L 198.837876 103.485313 
+Q 194.487876 103.485313 194.487876 107.835313 
+L 194.487876 121.868594 
+Q 194.487876 126.218594 198.837876 126.218594 
+z
+" style="fill: #ffffff; opacity: 0.9; stroke: #cccccc; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #212121" x="198.837876" y="118.853047" transform="rotate(-0 198.837876 118.853047)">Reversible benchmark: 389,395 W</text>
+   </g>
+  </g>
+  <g id="fig05b_axes_2">
+   <g id="fig05b_patch_5">
+    <path d="M 186.3675 395.64 
+L 694.3275 395.64 
+L 694.3275 160.966089 
+L 186.3675 160.966089 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="fig05b_line2d_5">
+    <path d="M 411.079638 297.911345 
+L 469.615362 297.911345 
+" clip-path="url(#fig05b_p73aa5697b0)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #212121; stroke-opacity: 0.5; stroke-width: 0.8"/>
+   </g>
+   <g id="fig05b_matplotlib.axis_3">
+    <g id="fig05b_xtick_5">
+     <g id="fig05b_line2d_6">
+      <defs>
+       <path id="fig05b_mdbc7faf256" d="M 0 0 
+L 0 -3.5 
+" style="stroke: #555555; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#fig05b_mdbc7faf256" x="245.228422" y="395.64" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05b_text_3">
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(205.732172 411.2975)">Fuel input</text>
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(223.039672 429.214)">(LHV)</text>
+     </g>
+    </g>
+    <g id="fig05b_xtick_6">
+     <g id="fig05b_line2d_7">
+      <g>
+       <use xlink:href="#fig05b_mdbc7faf256" x="375.307807" y="395.64" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05b_text_4">
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(317.105307 411.2975)">Environmental</text>
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(327.281557 429.214)">heat uptake</text>
+     </g>
+    </g>
+    <g id="fig05b_xtick_7">
+     <g id="fig05b_line2d_8">
+      <g>
+       <use xlink:href="#fig05b_mdbc7faf256" x="505.387193" y="395.64" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05b_text_5">
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(475.884693 411.2975)">Work →</text>
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(454.930943 429.214)">heat (HP lift)</text>
+     </g>
+    </g>
+    <g id="fig05b_xtick_8">
+     <g id="fig05b_line2d_9">
+      <g>
+       <use xlink:href="#fig05b_mdbc7faf256" x="635.466578" y="395.64" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05b_text_6">
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(577.027828 411.2975)">Total delivered</text>
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; fill: #212121" transform="translate(617.435328 429.214)">heat</text>
+     </g>
+    </g>
+   </g>
+   <g id="fig05b_matplotlib.axis_4">
+    <g id="fig05b_ytick_2">
+     <g id="fig05b_line2d_10">
+      <path d="M 186.3675 395.64 
+L 694.3275 395.64 
+" clip-path="url(#fig05b_p73aa5697b0)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #cccccc; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="fig05b_line2d_11">
+      <g>
+       <use xlink:href="#fig05b_m056b1661cc" x="186.3675" y="395.64" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05b_text_7">
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #555555" x="182.8675" y="401.71875" transform="rotate(-0 182.8675 401.71875)">0</text>
+     </g>
+    </g>
+    <g id="fig05b_ytick_3">
+     <g id="fig05b_line2d_12">
+      <path d="M 186.3675 183.893067 
+L 694.3275 183.893067 
+" clip-path="url(#fig05b_p73aa5697b0)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #cccccc; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="fig05b_line2d_13">
+      <g>
+       <use xlink:href="#fig05b_m056b1661cc" x="186.3675" y="183.893067" style="fill: #555555; stroke: #555555; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="fig05b_text_8">
+      <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #555555" x="182.8675" y="189.971817" transform="rotate(-0 182.8675 189.971817)">100000</text>
+     </g>
+    </g>
+    <g id="fig05b_text_9">
+     <text style="font-size: 17px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #212121" x="114.252031" y="278.303044" transform="rotate(-90 114.252031 278.303044)">Power (W)</text>
+    </g>
+   </g>
+   <g id="fig05b_line2d_14">
+    <path d="M 182.93626 165.484388 
+L 195.91874 152.501907 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="fig05b_patch_6">
+    <path d="M 209.456591 395.64 
+L 281.000253 395.64 
+L 281.000253 301.338503 
+L 209.456591 301.338503 
+z
+" clip-path="url(#fig05b_p73aa5697b0)" style="fill: #cccccc; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="fig05b_patch_7">
+    <path d="M 339.535976 395.64 
+L 411.079638 395.64 
+L 411.079638 297.911345 
+L 339.535976 297.911345 
+z
+" clip-path="url(#fig05b_p73aa5697b0)" style="fill: #009e73; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="fig05b_patch_8">
+    <path d="M 469.615362 297.911345 
+L 541.159024 297.911345 
+L 541.159024 207.900871 
+L 469.615362 207.900871 
+z
+" clip-path="url(#fig05b_p73aa5697b0)" style="fill: #e69f00; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="fig05b_patch_9">
+    <path d="M 599.694747 395.64 
+L 671.238409 395.64 
+L 671.238409 207.900871 
+L 599.694747 207.900871 
+z
+" clip-path="url(#fig05b_p73aa5697b0)" style="fill: #cc79a7; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="fig05b_patch_10">
+    <path d="M 186.3675 395.64 
+L 186.3675 160.966089 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="fig05b_patch_11">
+    <path d="M 186.3675 395.64 
+L 694.3275 395.64 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="fig05b_text_10">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #212121" x="245.228422" y="294.802848" transform="rotate(-0 245.228422 294.802848)">44,535 W</text>
+   </g>
+   <g id="fig05b_text_11">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #212121" x="375.307807" y="291.37569" transform="rotate(-0 375.307807 291.37569)">46,154 W</text>
+   </g>
+   <g id="fig05b_text_12">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #212121" x="505.387193" y="201.365215" transform="rotate(-0 505.387193 201.365215)">42,509 W</text>
+   </g>
+   <g id="fig05b_text_13">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #212121" x="635.466578" y="201.365215" transform="rotate(-0 635.466578 201.365215)">88,662 W</text>
+   </g>
+  </g>
+  <g id="fig05b_axes_3">
+   <g id="fig05b_patch_12">
+    <path d="M 186.3675 395.64 
+L 694.3275 395.64 
+L 694.3275 72.72 
+L 186.3675 72.72 
+L 186.3675 395.64 
+z
+" style="fill: none"/>
+   </g>
+   <g id="fig05b_matplotlib.axis_5"/>
+   <g id="fig05b_matplotlib.axis_6"/>
+  </g>
+  <g id="fig05b_text_14">
+</g>
+  <g id="fig05b_legend_1">
+   <g id="fig05b_patch_13">
+    <path d="M 13 52.327734 
+L 36.2 52.327734 
+L 36.2 42.177734 
+L 13 42.177734 
+z
+" style="fill: #cccccc; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="fig05b_text_15">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: start" x="42.725" y="52.327734" transform="rotate(-0 42.725 52.327734)">Fuel input (context)</text>
+   </g>
+   <g id="fig05b_patch_14">
+    <path d="M 205.188437 52.327734 
+L 228.388437 52.327734 
+L 228.388437 42.177734 
+L 205.188437 42.177734 
+z
+" style="fill: #009e73; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="fig05b_text_16">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: start" x="234.913437" y="52.327734" transform="rotate(-0 234.913437 52.327734)">Environmental heat uptake</text>
+   </g>
+   <g id="fig05b_patch_15">
+    <path d="M 452.361328 52.327734 
+L 475.561328 52.327734 
+L 475.561328 42.177734 
+L 452.361328 42.177734 
+z
+" style="fill: #e69f00; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="fig05b_text_17">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: start" x="482.086328" y="52.327734" transform="rotate(-0 482.086328 52.327734)">Work → heat (HP lift)</text>
+   </g>
+   <g id="fig05b_patch_16">
+    <path d="M 651.919844 52.327734 
+L 675.119844 52.327734 
+L 675.119844 42.177734 
+L 651.919844 42.177734 
+z
+" style="fill: #cc79a7; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="fig05b_text_18">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans', 'Helvetica', 'Arial', sans-serif; text-anchor: start" x="681.644844" y="52.327734" transform="rotate(-0 681.644844 52.327734)">Total delivered heat</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="fig05b_p8aafa4f9f2">
+   <rect x="186.3675" y="72.72" width="507.96" height="81.914324"/>
+  </clipPath>
+  <clipPath id="fig05b_p73aa5697b0">
+   <rect x="186.3675" y="160.966089" width="507.96" height="234.673911"/>
+  </clipPath>
+ </defs>
+
+</g>
+</svg>

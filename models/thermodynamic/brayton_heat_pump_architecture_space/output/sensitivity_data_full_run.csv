@@ -1,0 +1,5 @@
+parameter,label,low_val,high_val,low_status,high_status,low_status_msg,high_status_msg,pct_change_low,pct_change_high
+eta_engine,$\eta_{engine}$,0.2,0.4,valid,out_of_envelope,Evaluated within envelope,Sink temperature pushed way beyond critical point (132.7C),-9.82669785843224,
+eta_iso,$\eta_{iso}$,0.7,0.83,valid,valid,Evaluated within envelope,Evaluated within envelope,-1.832467589389652,2.7392013391131607
+recovery_effectiveness,$f_{rec}$,0.5,0.75,valid,valid,Evaluated within envelope,Evaluated within envelope,-1.9966591233284285,7.98663649331373
+ua_condenser,$UA_{cond}$,1300,1800,out_of_envelope,valid,Sink temperature pushed way beyond critical point (118.3C),Evaluated within envelope,,7.348899736491211
