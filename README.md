@@ -1,6 +1,6 @@
 # Beyond Direct Combustion: Code Repo
 
-[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20324897.svg)](https://doi.org/10.5281/zenodo.20324897)](https://doi.org/10.5281/zenodo.20324897)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20324897.svg)](https://doi.org/10.5281/zenodo.20324897)
 
 Public reproducibility package for the manuscript **"Beyond direct combustion: a reversible benchmark for heat delivery from chemical fuels"**.
 
