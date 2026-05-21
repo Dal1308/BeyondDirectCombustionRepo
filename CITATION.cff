@@ -11,8 +11,8 @@ authors:
     given-names: Diane
   - family-names: Glasser
     given-names: David
-repository-code: "https://github.com/REPLACE-WITH-REPOSITORY/chemical-fuel-heating-benchmark"
-doi: "10.5281/zenodo.REPLACE"
+repository-code: "https://github.com/Dal1308/BeyondDirectCombustionRepo"
+doi: "10.5281/zenodo.20324897"
 version: "0.1.0"
 date-released: "2026-05-21"
 license: GPL-3.0-only

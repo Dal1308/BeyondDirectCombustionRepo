@@ -1,5 +1,7 @@
 # Beyond Direct Combustion: Code Repo
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20324897.svg)](https://doi.org/10.5281/zenodo.20324897)
+
 Public reproducibility package for the manuscript **"Beyond direct combustion: a reversible benchmark for heat delivery from chemical fuels"**.
 
 This repository contains the public model code, generated CSV outputs, rendered figure assets, and Aspen exported audit material for inspecting and reproducing the manuscript results.
@@ -145,7 +147,12 @@ The public smoke test verifies that these exported audit files are present and n
 
 ## Citation
 
-A final Zenodo DOI and repository URL will be added before public release. Until then, see `CITATION.cff` for placeholder citation metadata.
+This repository is archived on Zenodo:
+
+- DOI: [10.5281/zenodo.20324897](https://doi.org/10.5281/zenodo.20324897)
+- Source repository: <https://github.com/Dal1308/BeyondDirectCombustionRepo>
+
+See `CITATION.cff` for citation metadata.
 
 ## License
 

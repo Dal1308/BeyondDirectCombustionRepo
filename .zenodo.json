@@ -1,0 +1,39 @@
+{
+  "title": "Public reproducibility package for Beyond direct combustion: a reversible benchmark for heat delivery from chemical fuels",
+  "upload_type": "software",
+  "description": "Public reproducibility package for the manuscript \"Beyond direct combustion: a reversible benchmark for heat delivery from chemical fuels\". This repository contains model code, generated CSV outputs, rendered figure assets, and Aspen exported audit material for inspecting and reproducing the manuscript results.",
+  "creators": [
+    {
+      "name": "Boorany, Nidal"
+    },
+    {
+      "name": "Stacey, Neil Thomas"
+    },
+    {
+      "name": "Hildebrandt, Diane"
+    },
+    {
+      "name": "Glasser, David"
+    }
+  ],
+  "license": "GPL-3.0-only",
+  "keywords": [
+    "chemical fuels",
+    "direct combustion",
+    "heat delivery",
+    "thermodynamic benchmark",
+    "reversible benchmark",
+    "Brayton heat pump",
+    "Aspen",
+    "Python",
+    "reproducibility"
+  ],
+  "version": "1.1.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Dal1308/BeyondDirectCombustionRepo",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

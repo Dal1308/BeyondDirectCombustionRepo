@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "chemical-fuel-heating-benchmark"
-version = "0.1.0"
+version = "1.1.0"
 description = "Public reproducibility package for a thermodynamic benchmark of heat delivery from chemical fuels"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -13,7 +13,7 @@ authors = [
   { name = "Nidal Boorany" },
   { name = "Neil Thomas Stacey" },
   { name = "Diane Hildebrandt" },
-  { name = "David Glasser" }
+  { name = "David Glasser" },
 ]
 dependencies = [
   "cairosvg",
@@ -25,8 +25,12 @@ dependencies = [
   "coolprop",
   "pytest",
   "matplotlib",
-  "scipy"
+  "scipy",
 ]
+
+[project.urls]
+Repository = "https://github.com/Dal1308/BeyondDirectCombustionRepo"
+Archive = "https://doi.org/10.5281/zenodo.20324897"
 
 [tool.setuptools.packages.find]
 where = ["."]
