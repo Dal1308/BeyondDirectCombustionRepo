@@ -1,6 +1,7 @@
 # Beyond Direct Combustion: Code Repo
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20324897-blue)](https://doi.org/10.5281/zenodo.20324897)
+[![Repository DOI](https://img.shields.io/badge/Repository%20DOI-10.5281%2Fzenodo.20324897-blue)](https://doi.org/10.5281/zenodo.20324897)
+[![Preprint DOI](https://img.shields.io/badge/Preprint%20DOI-10.13140%2FRG.2.2.15559.66720-green)](https://doi.org/10.13140/RG.2.2.15559.66720)
 
 Public reproducibility package for the manuscript **"Beyond direct combustion: a reversible benchmark for heat delivery from chemical fuels"**.
 
@@ -147,9 +148,10 @@ The public smoke test verifies that these exported audit files are present and n
 
 ## Citation
 
-This repository is archived on Zenodo:
+This repository is archived on Zenodo, and the manuscript preprint is available on ResearchGate:
 
-- DOI: [10.5281/zenodo.20324897](https://doi.org/10.5281/zenodo.20324897)
+- Repository DOI: [10.5281/zenodo.20324897](https://doi.org/10.5281/zenodo.20324897)
+- Preprint DOI: [10.13140/RG.2.2.15559.66720](https://doi.org/10.13140/RG.2.2.15559.66720)
 - Source repository: <https://github.com/Dal1308/BeyondDirectCombustionRepo>
 
 See `CITATION.cff` for citation metadata.
